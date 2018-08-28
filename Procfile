@@ -1,1 +1,1 @@
-worker: python3 status.py
+web: python3 status.py
